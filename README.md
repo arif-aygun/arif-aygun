@@ -54,7 +54,9 @@ I focus on building scalable web applications and seamless user experiences.
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-aygun&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/arif-aygun/contribution-skyline">
+    <img src="https://raw.githubusercontent.com/arif-aygun/contribution-skyline/output/skyline.svg" width="100%" alt="Pixel-art night city built from my GitHub contributions: every day is a building, busier days are taller with more lit windows" />
+  </a>
 </p>
 
 
